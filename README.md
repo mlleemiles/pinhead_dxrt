@@ -8,3 +8,4 @@ Diffuse GI:
 Spec GI:
 - Improved screen space sampling to avoid over occlusion
 - Added DL2's leaf/subsurface scattering rendering in TLAS
+- Shadow rays origin no longer view dependant for stable shadowing inside TLAS
